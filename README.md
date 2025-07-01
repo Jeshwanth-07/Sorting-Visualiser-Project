@@ -1,9 +1,9 @@
-# Sorting Algorithm Visualizer 🎨📊
+# Sorting Algorithm Visualizer 
 
 This is a **Python + Pygame-based sorting algorithm visualizer** that provides a fun and interactive way to learn how different sorting algorithms work. With smooth animations, gradient-colored bars, and real-time controls, it's perfect for students, educators, or anyone curious about how data gets sorted under the hood.
 
 
-## 🚀 Features
+## Features
 
 - **Classic Algorithms**
   - Bubble Sort
@@ -24,7 +24,7 @@ This is a **Python + Pygame-based sorting algorithm visualizer** that provides a
   - Smooth animations powered by Pygame
 
 
-## 🎮 Controls
+## Controls
 
 | Key           | Action                          |
 |---------------|---------------------------------|
